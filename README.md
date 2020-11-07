@@ -1,3 +1,10 @@
+
+PLEASE NOTE: Thanks for having a look. I'm not using this anymore as I changed my work environment to use:
+Toolchain: https://github.com/andwn/marsdev
+VSCode project creation and SGDK Intellisense features : https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code
+
+--
+
 # Basic SGDK & VS Code template
 
 This `hello world` example contains a very basic VS Code setup aiming to work on SGDK projects to create Genesis/MegaDrive homebrew. 
