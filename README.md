@@ -1,7 +1,7 @@
 
 PLEASE NOTE: Thanks for having a look. I'm not using this anymore as I changed my work environment to use:
-Toolchain: https://github.com/andwn/marsdev
-VSCode project creation and SGDK Intellisense features : https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code
+* Toolchain: https://github.com/andwn/marsdev
+* VSCode helper : https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code
 
 --
 
